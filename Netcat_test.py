@@ -114,3 +114,4 @@ if __name__ == '__main__':
 
     nc = NetCat(args, buffer.encode())
     nc.run()
+    print("aaa")
